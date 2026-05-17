@@ -1,0 +1,6 @@
+dist
+node_modules
+bin
+.DS_Store
+renderer
+package-lock.json
