@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "YouTube Video Downloader - Electron App",
   "author": "Tuberate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaccon/tuberate-downloader.git"
+  },
   "main": "main.js",
   "scripts": {
     "start": "electron .",
